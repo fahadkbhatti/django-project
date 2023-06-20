@@ -1,7 +1,4 @@
-"# django-ecommerce-project-amazon-clone" 
-
-## Complete Playlist Tutorial Link : 
-
+"# django-ecommerce-project" 
 
 ## Theme Used
 <a href="https://github.com/fahadkbhatti">View</a>
